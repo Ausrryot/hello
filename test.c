@@ -2,5 +2,5 @@
 
 void func()
 {
-	printf("func\n");
+	printf("baiao\n");
 }
